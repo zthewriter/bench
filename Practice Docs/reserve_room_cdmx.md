@@ -2,31 +2,29 @@
 
 ## Overview
 
-This guide explains how to reserve a private room in the Wizeline CDMX office.
+This guide explains how to reserve a room in the Wizeline CDMX office.
 
 ## Purpose 
 
-To provide detailed instructions on how to reserve a private room at the Wizeline Mexico City office.  
+To provide detailed instructions on how to reserve a room at the Wizeline Mexico City office.  
 
 ## Audience 
 
-Wizeliners looking to reserve a private room at the Wizeline Mexico City office. 
+Wizeliners looking to reserve a room at the Wizeline Mexico City office. 
 
-## Table of Contents
-
-### This guide will cover: 
-1. [Pre-requisites](#prereq)  
+## This guide will cover: 
+1. [Prerequisites](#prereq)  
 2. [How to access Okta](#okta)
 3. [How to access Google Workspace](#workspace) 
 4. [How to access Google Calendar](#goocal) 
 5. [How to reserve a room](#room)  
 
 ###
-> **Note:** If you already have access to both Okta and your Google Workspace Account, please skip the pre-requisites section and go directly to "How to access Google Calendar".  
+> **Note:** If you already have access to both Okta and your Google Workspace Account, please skip the prerequisites section and go directly to "How to access Google Calendar".  
 
-## <a name="prereq"></a> Pre-requisites
+## <a name="prereq"></a> Prerequisites
 
-This section will discuss the pre-requisites required to access Google Calendar. In this section you will learn how to access both Okta and your Google Workspace Account.    
+This section will discuss the prerequisites required to access Google Calendar. In this section you will learn how to access both Okta and your Google Workspace Account.    
 
 ## <a name="okta"></a> How to access Okta 
 

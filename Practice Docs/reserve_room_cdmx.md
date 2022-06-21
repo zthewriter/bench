@@ -16,8 +16,10 @@ Wizeliners looking to reserve a private room at the Wizeline Mexico City office.
 
 ### This guide will cover: 
 1. [Pre-requisites](#prereq)  
-2. How to access Google Calendar
-3. How to reserve a room 
+2. [How to access Okta](#okta)
+3. [How to access Google Workspace](#workspace) 
+4. [How to access Google Calendar](#goocal) 
+5. [How to reserve a room](#room)  
 
 ###
 > **Note:** If you already have access to both Okta and your Google Workspace Account, please skip the pre-requisites section and go directly to "How to access Google Calendar".  
@@ -26,7 +28,7 @@ Wizeliners looking to reserve a private room at the Wizeline Mexico City office.
 
 This section will discuss the pre-requisites required to access Google Calendar. In this section you will learn how to access both Okta and your Google Workspace Account.    
 
-## How to access Okta 
+## <a name="okta"></a> How to access Okta 
 
 Before your first day at Wizeline, you will receive an email—sent to your *personal* email address—from it-service@wizeline.com. This email includes three attachments. The attachment with the below format includes your Okta credentials:
 
@@ -45,7 +47,7 @@ After receiving your credentials, access Okta by following these steps:
 7. Press enter. 
    You will be directed to the Okta dashboard.  
 
-## To access your Google Workspace Account 
+##  <a name="workspace"></a> How to access your Google Workspace Account
 
 After entering the Okta, you will see multiple work-related applications available to you on the dashboard. Each of these applications appear as an icon with accompanying text. 
 
@@ -57,7 +59,7 @@ To access your Google Workspace Account:
    You now have access to Google Workspace tools. This includes Google Calendar.   
 
 
-## How to access Google Calendar 
+## <a name="goocal"></a> How to access Google Calendar 
 
 This section will cover how to access Google Calendar. Once you have both accessed Okta and configured your Google Workspace, you can enter Google Calendar. 
 
@@ -68,7 +70,7 @@ To access Google Calendar:
 3. Click **Calendar**. 
    Google Calendar will automatically open in a new tab.   
 
-## How to reserve a room 
+## <a name="room"></a> How to reserve a room 
 
 This section will cover how to reserve a room at the Wizeline Mexico City office. 
 

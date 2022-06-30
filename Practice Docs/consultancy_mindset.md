@@ -2,7 +2,7 @@
 
 ## Give the client more than what they asked for 
 
-What is included in the contract in the minimum. It is not all that we can do. Take advantage of opportunities to deliver above and beyond services to clients. Identify potential needs the client may have. 
+What is included in the contract is the minimum. It is not all that we can do. Take advantage of opportunities to deliver above and beyond services to clients. Identify potential needs the client may have. 
 
 Reach out to your respective slack channel when you are confronted with a project channel. There is always someone with an answer who can help you. 
 
@@ -16,9 +16,9 @@ I know you may not be used to being asked these types of questions, but if you g
 
 Always be respectful about it and come at it from a point of curiosity. 
 
-The client usually provides documents regarding the project. The recommendation is to read all these documents and practice active listening. You will notice there are gaps in the information at times. Follow up on these gaos with the clients. They will know you are listening and paying attention to the information they provided. 
+The client usually provides documents regarding the project. The recommendation is to read all these documents and practice active listening. You will notice there are gaps in the information at times. Follow up on these goals with the clients. They will know you are listening and paying attention to the information they provided. 
 
-Take initative to familiarize yourself with the project. Know what the client expects. 
+Take the initiative to familiarize yourself with the project. Know what the client expects. 
 
 Don't ask the client to redo work, but you can build upon previously asked questions to gain additional clarity. 
 
@@ -30,7 +30,7 @@ You need to build trust in the client and the Wizeline solution. Open communicat
 
 The Happy Path is when we have an idea, propose the idea to the client, and the client says yes! 
 
-But that does not always happen. In the situations where that does not happen, how do we handle that rejection? 
+But that does not always happen. In situations where that does not happen, how do we handle that rejection? 
 
 "How can we deal with rejection?" 
 
@@ -52,11 +52,11 @@ Ask yourself: "What is the problem that they are trying to solve?"
 
 This will give you a better idea of the *best* solution. 
 
-Maybe the client wants something that is not the best solution. Maybe you forsee a future problem. Try to identify the actual problem and offer the best solution to the client. 
+Maybe the client wants something that is not the best solution. Maybe you foresee a future problem. Try to identify the actual problem and offer the best solution to the client. 
 
-**Remember:** You only this context if you ask those questions to the clients. The fastest solutions aren't always the best.  
+**Remember:** You only have this additional context if you ask those questions to the clients. The fastest solutions aren't always the best.  
 
-## Propose a different solutuion 
+## Propose a different solution 
 
 Keep the best interest of the client in mind throughout the project. We are not trying to push back against what the client wants, we want to push the client **forward**. 
 
@@ -97,11 +97,11 @@ On retrospectives we started getting kudos on speed and less bugs, we did mentio
 
 **Note:** This section is pulled from the book 2nd edition of the Refactoring book by Martin Fowler word by word to reference in the text in the future:
 
-"To a manager who is genuinely savvy about technology and understand the design stamina hypothesis, refactoring isn't hard to justify. Such managers should be encouraging refactoring on a regular basis and be looking for signs that indicate a team isn't doing enough. While it does happen that teams do too much refactoring, it's much rare tha teams not doing enough.
+"To a manager who is genuinely savvy about technology and understands the design stamina hypothesis, refactoring isn't hard to justify. Such managers should be encouraging refactoring on a regular basis and be looking for signs that indicate a team isn't doing enough. While it does happen that teams do too much refactoring, it's much rarer than teams are not doing enough.
 
 Of course, many managers and customers don't have the technical awareness to know how code base health impacts productivity. In these cases U give my more controversial advice: *Don't tell!*
 
-Subversive? I don't think so. Software developers are professionals. Our job is to build effective software as rapidly as we can. My experience is that refactoring is a big aid to building software quickly. If I need to add a new function and the design does not suit the change, I find it's quicker to refactor first and then add the function. If I need to fix a bug, I need to understand how the software work—and I find refeactoring is the fastest way to do this. A schedule-driven manager wants me to do things the fastest way I can; how I do it is my responsibility. I'm being paid for my expertise in programming new capabilities fast, and the fastest way is by refactoring—therefore I refactor."
+Subversive? I don't think so. Software developers are professionals. Our job is to build effective software as rapidly as we can. My experience is that refactoring is a big aid to building software quickly. If I need to add a new function and the design does not suit the change, I find it's quicker to refactor first and then add the function. If I need to fix a bug, I need to understand how the software work—and I find refactoring is the fastest way to do this. A schedule-driven manager wants me to do things the fastest way I can; how I do it is my responsibility. I'm being paid for my expertise in programming new capabilities fast, and the fastest way is by refactoring—therefore I refactor."
 
 
 

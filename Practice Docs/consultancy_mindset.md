@@ -42,7 +42,7 @@ But that does not always happen. In the situations where that does not happen, h
 - When you get the opportunity to meet with the stakeholders you can ask them questions:
 - Ask them: What is your vision or idea of success? 
 - Follow up with this question: What other efforts have you done in the past to achieve this success? What worked and what did not work? 
-- If you have differring views from someone on the team, 
+- If you have differing views from someone on the team, 
 
 ## On projects where we are told to do things 
 

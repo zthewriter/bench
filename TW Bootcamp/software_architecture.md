@@ -45,7 +45,7 @@ View 3 - Components
 Includes these components: 
 
 - Overview 
-- Higgh-level diagram 
+- High-level diagram 
 - Frontend 
   - Properties 
   - Relationships 

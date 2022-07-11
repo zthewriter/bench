@@ -23,7 +23,7 @@ These are:
 - Resource: Different types of information to access 
 - Endpoint: End path to access a resource 
 - HTTP Methods: The allowed interactions with the resource. GET, POST, PUT, DELETE
-- Authentication" Refers to proving correct identity 
+- Authentication: Refers to proving correct identity 
 - Authorization: Refers to allowing a certain action 
 
 ### API Parameters 

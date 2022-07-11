@@ -185,7 +185,7 @@ This is one of the most common deliverables throughout the early stages of a pro
 
 The following are some tips you  can follow: 
 
-- Youch base with your team constantly 
+- Touch base with your team constantly 
 - Review documentation catalogs 
 - Ask for a peer review 
 - Prepare a presentation 

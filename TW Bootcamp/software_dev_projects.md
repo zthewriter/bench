@@ -13,7 +13,7 @@ The Software Development Life Cycle (SDLC) is composed of seven stages. These se
 
 ## Types of Solutions Wizeline Offers
 
-Software development solutions are diverse becuase technology service providers have multiple frameworks and strategies to solve a specific problem or need. We can categorize solutions as: 
+Software development solutions are diverse because technology service providers have multiple frameworks and strategies to solve a specific problem or need. We can categorize solutions as: 
 
 ### Software architecture 
 - Frontend 
@@ -150,7 +150,7 @@ Our own tools:
 - Assessment of current internal documentation
 - Proactivesness and active listening during meetings 
 
-### Understand tge Customer and the Product 
+### Understand the Customer and the Product 
 
 The following actions help to understand customers and products:
 - Try and test the product or every released feature. 

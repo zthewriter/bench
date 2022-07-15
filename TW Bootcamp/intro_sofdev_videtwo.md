@@ -1,6 +1,6 @@
 # Introduction to Software Development 
 
-## Software Deelopment Life Cycle (SDLC)
+## Software Development Life Cycle (SDLC)
 
 Different stages: 
 1. Planning 

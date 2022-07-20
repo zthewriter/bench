@@ -1,5 +1,7 @@
 # What is Foundations?
 
+These notes come from the Foundations TW video found [here](https://drive.google.com/drive/folders/1Jhw0iapENIRQyUc8qgQ82BrkC63kUX6V). 
+
 ## The Official Definition
 
 Essential project elements that help us scope fix-bid projects accurately, set better expectations, and set delivery teams up for success.

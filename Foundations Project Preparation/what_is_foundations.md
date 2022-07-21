@@ -36,6 +36,7 @@ Before:
       - Positioning Statement  
       - Assumptions & Validation Plan 
       - Diagrams 
+  
 **NOTE:** There are MANY artifacts in a Foundations project. You need to get familiar with them prior to starting your project. Some of them (not all) will be included in your foundations. 
 - Ask for the **agenda, slide decks, and existing documentation**
 - Ask for the **SOW**
@@ -63,7 +64,7 @@ There are different roles during a Foundations project. These roles include:
 So, you need to identify who from Wizeline is on the project, and also you need to identify who is working with the client. For example, who are the stakeholders that are going to be there (as in present throughout the project). 
 
 ### During 
-- Document everything that csn br documented: 
+- Document everything that can be documented: 
   - Notes
   - Daily Recaps 
   - Daily Wrap-Ups 
